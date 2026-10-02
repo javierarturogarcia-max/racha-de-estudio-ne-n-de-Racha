@@ -1,0 +1,6 @@
+{
+  "name": "RACHA",
+  "description": "Contador de racha de estudio con modo oscuro, estadísticas de los últimos 7 días y mensajes motivacionales sin internet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
